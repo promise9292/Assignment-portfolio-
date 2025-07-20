@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.logo {
+  width: 50px;
+}
+
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+}
+.intro, .projects, . about me, .contact,
+{
+  padding:79px;
+  margin: 7px;
+}
+
+.project-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 5px;
+  margin: 7px 0;
+  border-radius: 5px;
+}
